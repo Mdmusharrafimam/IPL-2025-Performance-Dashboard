@@ -21,7 +21,6 @@ and player performance using runs, wickets, and match statistics.
 
 ## Key Insights
 - MI leads total runs with 50K
-- KL Rahul top wicket taker with 1.3K
 - Wankhede & Ekana Stadium top scoring venues (59K)
 - Mumbai, Chennai, Jaipur top cities by runs
 - Balanced role distribution: Batters, Bowlers, All-rounders ~3.3K each
